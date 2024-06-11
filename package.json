@@ -29,7 +29,7 @@
     "bfile": "~0.2.3",
     "@handshake-org/bfilter": "~2.3.0",
     "bheep": "~0.1.5",
-    "binet": "~0.3.7",
+    "binet": "~0.3.9",
     "blgr": "~0.2.0",
     "blru": "~0.1.6",
     "blst": "~0.1.5",
